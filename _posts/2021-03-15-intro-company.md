@@ -25,8 +25,8 @@ featured: true
 
 > Ref: 想对“强棒天使项目”有更多了解？想看看困境少年们的真实生活？请戳👇👇👇
 > 1. 豆瓣电影[《棒！少年》](https://movie.douban.com/subject/34930862/)：豆瓣评分：8.7
-> > ![movie1](../assets/images/15.jpg)
-> > ![movie2](../assets/images/16.png)
+> ![movie1](../assets/images/15.jpg)
+> ![movie2](../assets/images/16.png)
 > 2. 完整版在线观看: [《棒！少年》](https://www.iqiyi.com/v_21qpuwqny8o.html)
 > 3. 欢迎关注“强棒天使队”
 > ![attention](../assets/images/13.png)
